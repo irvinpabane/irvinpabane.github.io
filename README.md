@@ -23,4 +23,4 @@ If you have any idea to make it more interesting, feel free to send a PR, or cre
 Stay happy and keep the people you care about happy. :)
 
 
-#Disclaimer:Semua file dalam repository ini, adalah hasil editan saya dengan menggunakan tutorial dan file dari situs https://www.fajaraldev.xyz/2021/04/template-membuat-ucapan-happy-birthday.html
+#Disclaimer: Semua file dalam repository ini, adalah hasil editan saya dengan menggunakan tutorial dan file dari situs https://www.fajaraldev.xyz/2021/04/template-membuat-ucapan-happy-birthday.html
